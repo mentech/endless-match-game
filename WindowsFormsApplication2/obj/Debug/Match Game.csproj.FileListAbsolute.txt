@@ -1,0 +1,10 @@
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\Match Game.csprojResolveAssemblyReference.cache
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\MatchGame.GoogleAnalyticsApi.resources
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\Match Game.csproj.GenerateResource.cache
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\Match Game.csproj.CoreCompileInputs.cache
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\oktay\OneDrive\Masaüstü\Match Game Visual studio22\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
